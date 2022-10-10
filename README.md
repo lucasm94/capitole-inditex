@@ -11,11 +11,16 @@ Api rest to get prices.
 * **Swagger**
 * Database: **H2**
 
-Use:
+## Use:
+
 This service needs to set the next enviroment variables
+
 Database:
+
  - database_user = username.
  - database_pass = password.
+ 
 Spring security:
+
  - security_user = username.
  - security_pass = password.
