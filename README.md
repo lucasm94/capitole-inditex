@@ -1,5 +1,5 @@
 # capitole-inditex
-Api rest to get prices.
+Api rest to search prices.
 
 ## Technologies:  
 
@@ -9,7 +9,7 @@ Api rest to get prices.
 * **Spring Security**
 * **JUnit**
 * **Swagger**
-* Database: **H2**
+* **H2 Database**
 
 ## Use:
 
