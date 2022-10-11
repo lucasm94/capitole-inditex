@@ -11,9 +11,25 @@ Api rest to search prices.
 * **Swagger**
 * **H2 Database**
 
-## Use:
+## Instrucciones:
 
-This service needs to set the next enviroment variables
+Local:
+
+You need to have java 1.17 and Maven.
+
+Then run the command mvn clean install to generate the executable.
+
+Command to run the executable: java -jar prices-x.x.x-SNAPSHOT-.jar where x.x.x is the version number.
+
+## Usage:
+
+Swagger: {Base_url}/swagger-ui/index.html
+
+Database: {Base_url}/h2-console/
+
+If you run the application locally the Base_url by default is: http://localhost:8080
+
+This service needs to set the next environment variables
 
 Database:
 
